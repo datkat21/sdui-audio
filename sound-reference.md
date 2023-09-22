@@ -14,9 +14,9 @@ Toasts are notification sounds.
 | Filename                        | Description                  | Condition                                                    |
 | ------------------------------- | ---------------------------- | ------------------------------------------------------------ |
 | `deck_ui_achievement_toast.wav` | Achievement sound            | Plays when an achievement is awarded.                        |
-| `deck_ui_toast.wav`             | Notification sound           | Plays when a notification is recieved.                       |
-| `desktop_toast_default.wav`     | Alternate notification sound | Plays occasionally isntead of the `deck_ui_toast.wav` sound. |
-| `desktop_toast_short.wav`       | Alternate notification sound | Plays occasionally isntead of the `deck_ui_toast.wav` sound. |
+| `deck_ui_toast.wav`             | Notification sound           | Plays when a notification is received.                       |
+| `desktop_toast_default.wav`     | Alternate notification sound | Plays occasionally instead of the `deck_ui_toast.wav` sound. |
+| `desktop_toast_short.wav`       | Alternate notification sound | Plays occasionally instead of the `deck_ui_toast.wav` sound. |
 
 ### Navigation
 
