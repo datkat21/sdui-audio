@@ -1,0 +1,10 @@
+{
+  "name": "Dreamy Ambience",
+  "description": "A simple ambient loop. Intended to go along with Dreamy SFX pack.",
+  "author": "datkat21",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}

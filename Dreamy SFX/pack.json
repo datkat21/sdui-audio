@@ -1,0 +1,10 @@
+{
+  "name": "Dreamy SFX",
+  "description": "An ambient UI sound pack. Intended to go along with Dreamy Ambient music.",
+  "author": "datkat21",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
